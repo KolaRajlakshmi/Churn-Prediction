@@ -1,2 +1,2 @@
 # Churn-Prediction
-Telcom Customer Churn Prediction
+Telecom Customer Churn Prediction
